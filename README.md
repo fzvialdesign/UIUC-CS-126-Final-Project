@@ -1,3 +1,11 @@
+Cinder C++ project that recreates an adventure RPG project from earlier in the semester for CS 126 at UIUC.
+
+This Cinder C++ project was my final submission for the CS 126 final project at UIUC. This assignment was conducted over the course of about a month. For this assignment, I received a grade of 96.92%, which can be seen in the Grade Screenshot as well as my grades for the other stages of the project.
+
+Disclaimer: The final allowable submission date has long passed, so the ability to use this code to submit the assignment for a grade in the semester of Spring 2021 has similarly passed. I do not condone usage of this project for the purposes of cheating if this exact type of project assignment is to be re-used in future iterations of CS 126 at the University of Illinois at Urbana-Champaign.
+
+Below is the original README used when the project was submitted for grading.
+
 #Adventure Game
 
 This project runs a very small "dungeon-crawler-esque" game. The program 
