@@ -1,0 +1,13 @@
+DUNGEON_LOAD_FINAL_PROJECT
+{
+  [
+    {
+      ENTRANCE
+      ENTRN
+      EMPTY
+      EMPTY
+      EMPTY
+      0
+    }
+  ]
+}
